@@ -24,5 +24,6 @@ SpringMVC,Spring,Mybatis     BootstrapUI mysql
 * 关于
 * 用户信息
 
-  '用例图'
-![]()
+'用例图'
+
+![](https://github.com/Jackie2330489/JustinBlog/blob/master/picForREADME/use_case.jpg)
