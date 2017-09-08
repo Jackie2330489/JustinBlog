@@ -16,7 +16,7 @@ SpringMVC,Spring,Mybatis     BootstrapUI mysql
 * 管理评论
 
 '博文'
-* 打赏功能
+* 标签管理
 
 '前端'
 * 首页
